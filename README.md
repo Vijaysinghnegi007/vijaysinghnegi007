@@ -57,7 +57,7 @@ I enjoy combining frontend engineering with creative design, smooth animations, 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,scss" alt="JavaScript, HTML, CSS, SCSS" />
 </p>
 
 ### Frontend Development
@@ -81,7 +81,7 @@ I enjoy combining frontend engineering with creative design, smooth animations, 
 ### Backend, Database & Authentication
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Supabase and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sql,supabase,postgres,mysql" alt=" SQL,Supabase and PostgreSQL, MYSQL, "/>
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk authentication" />
   <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod validation" />
 </p>
@@ -89,7 +89,7 @@ I enjoy combining frontend engineering with creative design, smooth animations, 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code, npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm" alt="Git, GitHub, VS Code,npm, pnpm" />
 </p>
 
 ---
